@@ -9,9 +9,10 @@ A fintech mobile app for Malaysian food stall owners to track cash flow, predict
 ## 🚀 Quick Start (open your COMMAND PORMPT) and write what i write 
 
 ```bash
-1. cd Fintech
-2. npm install 
-3. npm run dev        # → http://localhost:5173/
+1. copy link github and paste into terminal 
+2. cd Fintech
+3. npm install 
+4. npm run dev        # → http://localhost:5173/
 ```
 
 ---
